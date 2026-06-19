@@ -324,10 +324,6 @@ Liste:
 
 ---
 
-Perfeito — segue apenas a nova versão da seção **🏆 Desafio**, sem repetir o anterior:
-
----
-
 # 🏆 Desafio
 
 Utilizando uma tabela de **alunos**, crie situações práticas para treinar atualização, remoção e consultas:
