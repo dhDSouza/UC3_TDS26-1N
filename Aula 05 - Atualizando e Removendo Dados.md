@@ -260,7 +260,7 @@ UPDATE aluno
 SET turma_id = 2;
 ```
 
-> [!!CAUTION]
+> [!CAUTION]
 > **Atualiza TODOS os registros.**
 
 ---
@@ -271,7 +271,7 @@ SET turma_id = 2;
 DELETE FROM aluno;
 ```
 
-> [!!CAUTION]
+> [!CAUTION]
 > **Apaga TODOS os dados da tabela.**
 
 ---
